@@ -49,7 +49,6 @@ captures/
 
 # Gradle
 .gradle/
-gradle.properties
 
 # Android Studio captures folder
 captures/
