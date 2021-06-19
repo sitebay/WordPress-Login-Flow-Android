@@ -66,7 +66,7 @@ dependencies {
             exclude group: "org.wordpress", module: "utils"
         }
     } else {
-        implementation("com.github.sitebay.WordPress-FluxC-Android:fluxc:6.19.1") {
+        implementation("com.github.sitebay.WordPress-FluxC-Android:fluxc:7.19.1") {
             exclude group: "com.android.support"
             exclude group: "org.wordpress", module: "utils"
         }
